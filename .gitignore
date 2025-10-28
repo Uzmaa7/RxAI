@@ -1,0 +1,5 @@
+.env
+venv
+.git
+RxAI.egg-info/
+__pycache__/
